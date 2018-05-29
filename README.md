@@ -39,6 +39,21 @@ I know a little of the following things _(ranked by familiarity)_:
 - Ping pong
 - Dota 2
 
+## Language
+- English
+- Chinese
+- Malay
+- German (Ich habe 3 Monate Deutsch gelernt)
+
+## Some of my works
+- Timetable Arranging Program 
+  - Source link : https://github.com/wongjiahau/ttap-web
+  - Actual website : https://ttap.surge.sh
+- Contribution to demo app of MaterialDesignInXamlToolkit
+  - [Click here for more info](https://github.com/ButchersBoy/MaterialDesignInXamlToolkit/graphs/contributors)
+- Data analysis for a school project
+
+
 ## How to contact me?
 ```js
 // Javascript
