@@ -43,11 +43,17 @@ Actually, I think I'm capable of learning a new programming language in one week
 - Dota 2
 - Eating
 
-## Language
-- I know how to speak **English**
-- 我會說**華語**
-- Aku fasal **Bahasa Melayu** juga
-- Ich habe 3 Monate **Deutsch** gelernt
+## Language that I know
+- English (I know how to speak **English**)
+- Mandarin (我会说华语)
+- Hakka (涯晓講**客家話**)
+- Cantonese (我識講識聽**廣東話**)
+- Malay (Aku fasal **Bahasa Melayu** juga)
+- A little German (Ich habe 3 Monate **Deutsch** gelernt)
+## Scripts that I can read
+- Korean script (나는 **한국의** 대본을 읽을 수있다)
+- Jawi script (ساي بوليه باچ توليسن **جاوي**)
+
 
 ## Some of my works
 - Timetable Arranging Program 
