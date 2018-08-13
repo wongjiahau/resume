@@ -6,7 +6,8 @@
 **Email** : jiahau.wong@1utar.my
 
 ## Technical Skills
-I know a little of the following things _(ranked by familiarity)_:  
+I know a little of the following things _(ranked by familiarity)_:
+- Pineapple (my own language)
 - Vim
 - Javascript
 - React
@@ -22,6 +23,7 @@ I know a little of the following things _(ranked by familiarity)_:
 - Git
 - GitHub
 - C# (WPF)
+- React Native
 - Machine Learning (python)
 - Haskell
 - php
@@ -33,7 +35,7 @@ I know a little of the following things _(ranked by familiarity)_:
 - Java
 - CSS
 - Google Compute Engine
-- React Native
+- C/C++
 
 Actually, I think I'm capable of learning a new programming language in one week.
 
@@ -56,13 +58,10 @@ Actually, I think I'm capable of learning a new programming language in one week
 
 
 ## Some of my works
-- Timetable Arranging Program 
-  - Source link : https://github.com/wongjiahau/ttap-web
-  - Actual website : https://ttap.surge.sh
-- Contribution to demo app of MaterialDesignInXamlToolkit
-  - [Click here for more info](https://github.com/ButchersBoy/MaterialDesignInXamlToolkit/graphs/contributors)
-- Data analysis for a school project
-  - https://github.com/fesvictor/TCLCPhase2
+- [Timetable Arranging Program](https://github.com/wongjiahau/ttap-web)
+- [Contribution to the demo app of MaterialDesignInXamlToolkit](https://github.com/ButchersBoy/MaterialDesignInXamlToolkit/graphs/contributors)
+- [Data analysis for a school project](https://github.com/fesvictor/TCLCPhase2)
+- [Pineapple Language](https://github.com/wongjiahau/pineapple)
 
 ## Some of my achievements
 - Won 2nd place on Hack2Hired 2018 (organized by DreamCatcher) 
@@ -70,6 +69,8 @@ Actually, I think I'm capable of learning a new programming language in one week
 - Won Distinction in E-Genting Programming Competition 2017
   - http://egpc.genting.com.my/Winners.aspx#2017
 ![image](https://user-images.githubusercontent.com/23183656/40950272-af4fecd6-68a4-11e8-8c99-5dd3b64ecd6e.png)
+- Won first place in PROCOM 2018
+![image](https://scontent.fkul13-1.fna.fbcdn.net/v/t1.0-9/38264122_995939143899156_3196469984880492544_n.jpg?_nc_cat=0&oh=5d7366c1201aefff17fb47a1c9d2755c&oe=5BC95F3F)
 
 
 ## How to contact me?
