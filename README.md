@@ -48,7 +48,7 @@ Actually, I think I'm capable of learning a new programming language in one week
 - Mandarin (我会说华语)
 - Hakka (涯晓講**客家話**)
 - Cantonese (我識講識聽**廣東話**)
-- Malay (Aku fasal **Bahasa Melayu** juga)
+- Malay (Aku fasih **Bahasa Melayu** juga)
 - A little German (Ich habe 3 Monate **Deutsch** gelernt)
 ## Scripts that I can read
 - Korean script (나는 **한국의** 대본을 읽을 수있다)
