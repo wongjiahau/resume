@@ -72,18 +72,21 @@ Actually, I think I'm capable of learning a new programming language in one week
 - Won first place in PROCOM 2018
 ![image](https://scontent.fkul13-1.fna.fbcdn.net/v/t1.0-9/38264122_995939143899156_3196469984880492544_n.jpg?_nc_cat=0&oh=5d7366c1201aefff17fb47a1c9d2755c&oe=5BC95F3F)
 
+- Won Toshiba Award from in PROCON Japan 2018 
+![image](https://user-images.githubusercontent.com/23183656/48177695-03c68c80-e351-11e8-9777-c82bd5f213e5.png)
+
 
 ## How to contact me?
 ```js
 // Javascript
-const myPhoneNumber = {$:[() => () => ""
-    .concat (((("362728294817560252"))))
-    .split  ((((((((((((("")))))))))))))
-    .map    ((((((x => parseInt(x)))))))
-    .map    ((((x => "2310674589"[x]))))
+({$:[()=>()=>()=> (true?"":{...{hello: NaN}})
+.concat         (((("362728294817560252"))))
+ .split        ((((((((((((("")))))))))))))
+  .map        ((((((x => parseInt(x)))))))
+   .map      ((((x => "2310674589"[x]))))
     .filter (x => "9845".indexOf(x) < 0)
-    .join   ((((((((((((("")))))))))))))
-]};;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+     .join ((((((((((((("")))))))))))))
+]}).$[0]("my")("phone")("number");;;;;
 ```
 
 ## Food
