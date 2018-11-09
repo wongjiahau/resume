@@ -5,6 +5,8 @@
 **Education** : Software Engineering  
 **Email** : jiahau.wong@1utar.my
 
+## CGPA > 3.5
+
 ## Technical Skills
 I know a little of the following things _(ranked by familiarity)_:
 - Pineapple (my own language)
