@@ -5,16 +5,19 @@
 **Education** : Software Engineering  
 **Email** : jiahau.wong@1utar.my
 
-## CGPA > 3.5
+## CGPA 
+More than 3.5. 
 
 ## Technical Skills
 I know a little of the following things _(ranked by familiarity)_:
-- Pineapple (my own language)
+- Keli (my own programming language)
 - Vim
 - Javascript
+- Haskell
 - React
 - Typescript
 - Python 
+- Elm
 - Functional programming (filter/map/reduce)
 - Node.js (express.js)
 - HTML (not 5)
@@ -27,7 +30,6 @@ I know a little of the following things _(ranked by familiarity)_:
 - C# (WPF)
 - React Native
 - Machine Learning (python)
-- Haskell
 - php
 - Neo4j GraphDB
 - Apache
