@@ -14,11 +14,11 @@ I know a little of the following things _(ranked by familiarity)_:
 - Vim
 - Javascript
 - Haskell
-- React
+- React(+ Redux)
 - Typescript
 - Python 
 - Elm
-- Scala
+- Scala (Spark)
 - Functional programming (filter/map/reduce)
 - Node.js (express.js)
 - HTML (not 5)
