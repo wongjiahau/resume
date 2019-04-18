@@ -18,6 +18,7 @@ I know a little of the following things _(ranked by familiarity)_:
 - Typescript
 - Python 
 - Elm
+- Scala
 - Functional programming (filter/map/reduce)
 - Node.js (express.js)
 - HTML (not 5)
