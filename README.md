@@ -2,8 +2,6 @@
 
 hou32hou@gmail.com - [github.com/wongjiahau](github.com/wongjiahau) - Kuala Lumpur, Malaysia
 
----
-
 ## Summary
 
 Enthusiastic about improving the developer's experiences, and also low-level system programming.
@@ -13,8 +11,6 @@ Full-stack software engineer with 6+ years of experience spanning ERP systems, A
 Built end-to-end type-safe systems, experimented with programming languages, and solving hard integration problems at the systems level.
 
 Strong background in Rust, TypeScript, React and Python, with a track record of delivering production systems solo and leading small teams.
-
----
 
 ## Experience
 
@@ -62,8 +58,6 @@ _2019 – July 2023 (~5 years)_
 - Led and trained over 10 interns
 - Invited a few times to give talks regarding software engineering in UTAR
 
----
-
 ## Open Source & Projects
 
 ### [Ki Editor](github.com/wongjiahau/ki-editor)
@@ -105,8 +99,6 @@ Designed and implemented a programming language that is meant to improve readabi
 
 Pioneered [a project](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit/pull/765) that shows the corresponding code of each components in the demo app.
 
----
-
 ## Skills
 
 | Aspect         | Tools                                                    |
@@ -118,8 +110,6 @@ Pioneered [a project](https://github.com/MaterialDesignInXAML/MaterialDesignInXa
 | Databases      | PostgreSQL, MongoDB                                      |
 | AI/ML          | LLM integration, memory systems, Tavus, Vapi, ElevenLabs |
 | Tools          | LSP protocol, transpiler, parsers, FFMPEG, TUI editor    |
-
----
 
 ## Education
 
