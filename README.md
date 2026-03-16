@@ -25,7 +25,7 @@ _July 2024 – March 2026_
 - Built and maintained playback video generation of roleplays, featuring real-time AI avatar integration with Tavus
 - Engineered a video composition pipeline using FFmpeg to composite live webcam feeds with Tavus AI avatar streams, PDF file sharing, and screen sharing, and resolved audio-video sync issues
 - Developed Django/React full-stack features including webcam stream management (pausable webcam with canvas compositing, Loom-style recording uploading chunks to AWS S3)
-- Wrote **AST-based codemods using [LibCST](https://github.com/Instagram/LibCST)** to systematically refactor the Python/Django codebase for improved type-checkability (specifically making `Service` classes type-safe, both at declaration sites and call sites)
+- Wrote AST-based codemods using [LibCST](https://github.com/Instagram/LibCST) to systematically refactor the Python/Django codebase for improved type-checkability (specifically making `Service` classes type-safe, both at declaration sites and call sites)
 
 ---
 
@@ -53,11 +53,11 @@ _2019 – July 2023 (~5 years)_
 - Executed a gradual **zero-downtime migration** of a large portion of the database from MongoDB to PostgreSQL
 - Introduced and enforced Test-Driven Development (TDD) culture to the team
 - Built a **custom AST refactoring tool** using the TypeScript ESLint parser to systematically ensure GraphQL query/mutation names follow a specific naming scheme
-- Built an internal **GraphQL backend type codegen tool** that generates TypeScript type declarations for backend resolvers from `.graphql` schema files, filling an ecosystem gap (no backend equivalent of GraphQL Code Generator existed at the time), completing **end-to-end type safety** from database through resolvers to the React frontend
+- Built an internal **GraphQL backend type codegen tool** that generates TypeScript type declarations for backend resolvers from `.graphql` schema files, filling an ecosystem gap (no backend equivalent of GraphQL Code Generator existed at the time), completing end-to-end type safety from database through resolvers to the React frontend
 - Led two interns in building a **PDF form field mapping editor**, a visual tool allowing users to draw field regions on uploaded PDFs and map database records to those fields
 - Reverse-engineered a mobile app's private API (via decompilation) to enable live property price chart scraping from a developer with no public API
 - Reverse-engineered a proprietary FirebirdDB schema from the Malaysian SQL Accounting system's blob files to enable accounting data integration with no official documentation
-- Migrated the entire development, CI, and production environment to **Docker**, eliminating environment inconsistency issues across the team
+- Migrated the entire development, CI, and production environment to Docker, eliminating environment inconsistency issues across the team
 - Built multilpe analytical dashboards using Holistics by integrating it with the company's databases
 - Led and trained over 10 interns
 - Invited a few times to give talks regarding software engineering in UTAR
