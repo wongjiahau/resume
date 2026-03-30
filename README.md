@@ -16,7 +16,7 @@ Strong background in Rust, TypeScript, React and Python, with a track record of 
 
 ### Full-stack Software Engineer @ [Exec](https://www.exec.com/)
 
-_July 2024 – March 2026_
+_July 2025 – March 2026_ (7 months)
 
 - Built and maintained playback video generation of roleplays, featuring real-time AI avatar integration with Tavus
 - Engineered a video composition pipeline using FFmpeg to composite live webcam feeds with Tavus AI avatar streams, PDF file sharing, and screen sharing, and resolved audio-video sync issues
@@ -27,7 +27,7 @@ _July 2024 – March 2026_
 
 ### Full-stack Software Engineer @ [Grace (Catholic AI iOS App)](https://apps.apple.com/my/app/grace-catholic-companion/id6478172934)
 
-_July 2023 – July 2024_
+_July 2024 – July 2025_ (1 year)
 
 - Sole engineer (alongside a product designer and UI/UX designer) responsible for the entire stack: Django backend, SwiftUI frontend, and infrastructure on Render
 - Built a user memory system inspired by academic research, predating the mainstream adoption of memory in LLM applications, featuring:
@@ -42,7 +42,7 @@ _July 2023 – July 2024_
 
 ### Full-stack Software Engineer @ [Didian](https://mydidian.com/)
 
-_2019 – July 2023 (~5 years)_
+_2019 – July 2024 (~5 years)_
 
 - Developed full-stack ERP applications almost from scratch using Node.js, TypeScript, GraphQL, PostgreSQL, MongoDB and AWS
 - Built client-facing dashboards and internal-facing dashboards for managing property transactions
