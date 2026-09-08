@@ -40,7 +40,7 @@ _July 2024 – July 2025_ (1 year)
 
 ---
 
-### Full-stack Software Engineer @ [Didian](https://mydidian.com/)
+### Founding Software Engineer @ [Didian](https://mydidian.com/)
 
 _2019 – July 2024 (~5 years)_
 
