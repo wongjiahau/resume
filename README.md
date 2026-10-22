@@ -16,7 +16,7 @@ Strong background in Rust, TypeScript, React and Python, with a track record of 
 
 ### Full-stack Software Engineer @ [Configura](https://www.configura.com/)
 
-_2026 – Present_
+_May 2026 – November 2026_
 
 - Extracted account-management operations from a legacy Perl application into a NestJS service, implementing seven user endpoints, preserving existing pages through feature-flagged delegation, and deploying on AWS ECS Fargate.
 - Added blocking CI suites for legacy Perl and delegated TypeScript implementations to verify browser-facing behavior, with isolated MySQL state to prevent interference between concurrent pipelines.
