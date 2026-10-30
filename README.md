@@ -4,7 +4,7 @@ hou32hou@gmail.com - [github.com/wongjiahau](github.com/wongjiahau) - Kuala Lump
 
 ## Summary
 
-Enthusiastic about improving the developer's experiences, and also low-level system programming.
+Enthusiastic about improving the developer's experiences through AI-agent workflows, and also low-level system programming.
 
 Full-stack software engineer with 6+ years of experience spanning ERP systems, AI applications, and developer tooling.
 
@@ -18,6 +18,7 @@ Strong background in Rust, TypeScript, React and Python, with a track record of 
 
 _May 2026 – November 2026_
 
+- Built reusable AI-agent workflows (Codex skills) for setting up the development environment, investigating production issues, and preparing merge requests
 - Extracted account-management operations from a legacy Perl application into a NestJS service, implementing seven user endpoints, preserving existing pages through feature-flagged delegation, and deploying on AWS ECS Fargate.
 - Added blocking CI suites for legacy Perl and delegated TypeScript implementations to verify browser-facing behavior, with isolated MySQL state to prevent interference between concurrent pipelines.
 - Implemented self-service email changes across MySQL and Auth0, preserving the old login until verification succeeds and adding request expiry, session-owner validation, and back-channel logout.
@@ -119,7 +120,7 @@ Pioneered [a project](https://github.com/MaterialDesignInXAML/MaterialDesignInXa
 | Backend        | Django, Node.js, GraphQL                                 |
 | Infrastructure | Docker, Nix, GitHub Actions, Gitlab CI/CD                |
 | Databases      | PostgreSQL, MongoDB                                      |
-| AI/ML          | LLM integration, memory systems, Tavus, Vapi, ElevenLabs |
+| AI             | AI-agent workflows, Codex, MCP, LLM integration, memory systems, Tavus, Vapi, ElevenLabs |
 | Tools          | LSP protocol, transpiler, parsers, FFMPEG, TUI editor    |
 
 ## Education
