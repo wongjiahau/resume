@@ -4,13 +4,7 @@ hou32hou@gmail.com - [github.com/wongjiahau](github.com/wongjiahau) - Kuala Lump
 
 ## Summary
 
-Enthusiastic about improving the developer's experiences through AI-agent workflows, and also low-level system programming.
-
-Full-stack software engineer with 6+ years of experience spanning ERP systems, AI applications, and developer tooling.
-
-Built end-to-end type-safe systems, experimented with programming languages, and solving hard integration problems at the systems level.
-
-Strong background in Rust, TypeScript, React and Python, with a track record of delivering production systems solo and leading small teams.
+Full-stack software engineer with 6+ years of experience building production applications and developer tools. Builds reusable AI-agent workflows, automated architecture checks, and type-safe systems. Background in TypeScript, Python, Rust, and React, with experience delivering products independently and leading small teams.
 
 ## Experience
 
@@ -18,7 +12,8 @@ Strong background in Rust, TypeScript, React and Python, with a track record of 
 
 _May 2026 – November 2026_
 
-- Built reusable AI-agent workflows (Codex skills) for setting up the development environment, investigating production issues, and preparing merge requests
+- Built and published an internal Codex plugin bundling 11 reusable workflows for developer onboarding, production investigations, and GitLab merge-request preparation, integrating existing CLI tools and MCP connections.
+- Designed agent workflows requiring explicit approval for production SQL, executable manual test plans, and annotated UI comparisons at verified Git revisions.
 - Extracted account-management operations from a legacy Perl application into a NestJS service, implementing seven user endpoints, preserving existing pages through feature-flagged delegation, and deploying on AWS ECS Fargate.
 - Added blocking CI suites for legacy Perl and delegated TypeScript implementations to verify browser-facing behavior, with isolated MySQL state to prevent interference between concurrent pipelines.
 - Implemented self-service email changes across MySQL and Auth0, preserving the old login until verification succeeds and adding request expiry, session-owner validation, and back-channel logout.
